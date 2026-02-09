@@ -1,0 +1,1 @@
+console.table(window.WBST_INV)

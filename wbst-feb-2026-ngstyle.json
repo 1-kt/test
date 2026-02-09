@@ -1,0 +1,1682 @@
+﻿[
+    {
+        "date":  "2026-02-10",
+        "rawLabel":  "2/10/2026",
+        "items":  [
+                      {
+                          "time":  "11:00",
+                          "capacity":  "49",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "190",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "113",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "135",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "83",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "122",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "101",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "231",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "212",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-11",
+        "rawLabel":  "2/11/2026",
+        "items":  [
+                      {
+                          "time":  "11:00",
+                          "capacity":  "49",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "190",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "113",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "135",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "83",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "122",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "101",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "231",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "212",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-12",
+        "rawLabel":  "2/12/2026",
+        "items":  [
+                      {
+                          "time":  "11:00",
+                          "capacity":  "49",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "190",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "113",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "135",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "83",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "122",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "101",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "231",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "212",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-13",
+        "rawLabel":  "2/13/2026",
+        "items":  [
+                      {
+                          "time":  "11:00",
+                          "capacity":  "49",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "190",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "113",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "135",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "83",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "122",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "101",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "231",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "212",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-14",
+        "rawLabel":  "2/14/2026",
+        "items":  [
+                      {
+                          "time":  "11:00",
+                          "capacity":  "49",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "190",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "113",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "135",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "83",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "122",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "101",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "231",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "212",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-15",
+        "rawLabel":  "2/15/2026",
+        "items":  [
+                      {
+                          "time":  "9:00",
+                          "capacity":  "10",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "9:30",
+                          "capacity":  "140",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:30",
+                          "capacity":  "16",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:00",
+                          "capacity":  "61",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "190",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "139",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "140",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "105",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "121",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "114",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "213",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "187",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-16",
+        "rawLabel":  "2/16/2026",
+        "items":  [
+                      {
+                          "time":  "9:00",
+                          "capacity":  "10",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "9:30",
+                          "capacity":  "140",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:30",
+                          "capacity":  "16",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:00",
+                          "capacity":  "61",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "190",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "139",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "140",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "105",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "121",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "114",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "213",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "187",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-17",
+        "rawLabel":  "2/17/2026",
+        "items":  [
+                      {
+                          "time":  "9:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "9:30",
+                          "capacity":  "166",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:30",
+                          "capacity":  "64",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "124",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "87",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "222",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "63",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "174",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "81",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "144",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "158",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:30",
+                          "capacity":  "229",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:00",
+                          "capacity":  "223",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:30",
+                          "capacity":  "227",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "17:00",
+                          "capacity":  "221",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-18",
+        "rawLabel":  "2/18/2026",
+        "items":  [
+                      {
+                          "time":  "9:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "9:30",
+                          "capacity":  "166",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:30",
+                          "capacity":  "64",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "124",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "87",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "222",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "63",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "174",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "81",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "144",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "158",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:30",
+                          "capacity":  "229",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:00",
+                          "capacity":  "223",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:30",
+                          "capacity":  "227",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "17:00",
+                          "capacity":  "221",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-19",
+        "rawLabel":  "2/19/2026",
+        "items":  [
+                      {
+                          "time":  "9:00",
+                          "capacity":  "62",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "9:30",
+                          "capacity":  "140",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:30",
+                          "capacity":  "78",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:00",
+                          "capacity":  "41",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "201",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "140",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "139",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "44",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "131",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "112",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "209",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "186",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-20",
+        "rawLabel":  "2/20/2026",
+        "items":  [
+                      {
+                          "time":  "9:00",
+                          "capacity":  "62",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "9:30",
+                          "capacity":  "140",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:30",
+                          "capacity":  "78",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:00",
+                          "capacity":  "41",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "201",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "140",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "139",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "44",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "131",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "112",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "209",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "186",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-21",
+        "rawLabel":  "2/21/2026",
+        "items":  [
+                      {
+                          "time":  "9:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "9:30",
+                          "capacity":  "145",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:00",
+                          "capacity":  "3",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:30",
+                          "capacity":  "79",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "197",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "153",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "226",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "111",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "187",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "131",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "162",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "172",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:30",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:00",
+                          "capacity":  "231",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:30",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "17:00",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-22",
+        "rawLabel":  "2/22/2026",
+        "items":  [
+                      {
+                          "time":  "9:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "9:30",
+                          "capacity":  "145",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:00",
+                          "capacity":  "3",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:30",
+                          "capacity":  "79",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "197",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "153",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "226",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "111",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "187",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "131",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "162",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "172",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:30",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:00",
+                          "capacity":  "231",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:30",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "17:00",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-23",
+        "rawLabel":  "2/23/2026",
+        "items":  [
+                      {
+                          "time":  "9:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "9:30",
+                          "capacity":  "145",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:00",
+                          "capacity":  "3",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:30",
+                          "capacity":  "79",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "197",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "153",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "226",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "111",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "187",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "131",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "162",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "172",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:30",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:00",
+                          "capacity":  "231",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:30",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "17:00",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-24",
+        "rawLabel":  "2/24/2026",
+        "items":  [
+                      {
+                          "time":  "9:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "9:30",
+                          "capacity":  "145",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:00",
+                          "capacity":  "3",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:30",
+                          "capacity":  "79",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "197",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "153",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "226",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "111",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "187",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "131",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "162",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "172",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:30",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:00",
+                          "capacity":  "231",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:30",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "17:00",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-25",
+        "rawLabel":  "2/25/2026",
+        "items":  [
+                      {
+                          "time":  "9:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "9:30",
+                          "capacity":  "145",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:00",
+                          "capacity":  "3",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:30",
+                          "capacity":  "79",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "197",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "153",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "226",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "111",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "187",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "131",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "162",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "172",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:30",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:00",
+                          "capacity":  "231",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:30",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "17:00",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-26",
+        "rawLabel":  "2/26/2026",
+        "items":  [
+                      {
+                          "time":  "9:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "9:30",
+                          "capacity":  "145",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:00",
+                          "capacity":  "3",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:30",
+                          "capacity":  "79",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "197",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "153",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "226",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "111",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "187",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "131",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "162",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "172",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:30",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:00",
+                          "capacity":  "231",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:30",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "17:00",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-27",
+        "rawLabel":  "2/27/2026",
+        "items":  [
+                      {
+                          "time":  "9:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "9:30",
+                          "capacity":  "145",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:00",
+                          "capacity":  "3",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:30",
+                          "capacity":  "79",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "197",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "153",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "226",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "111",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "187",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "131",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "162",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "172",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:30",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:00",
+                          "capacity":  "231",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:30",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "17:00",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    },
+    {
+        "date":  "2026-02-28",
+        "rawLabel":  "2/28/2026",
+        "items":  [
+                      {
+                          "time":  "9:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "9:30",
+                          "capacity":  "145",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:00",
+                          "capacity":  "3",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "10:30",
+                          "capacity":  "79",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:00",
+                          "capacity":  "1",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "11:30",
+                          "capacity":  "197",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:00",
+                          "capacity":  "153",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "12:30",
+                          "capacity":  "226",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:00",
+                          "capacity":  "111",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "13:30",
+                          "capacity":  "187",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:00",
+                          "capacity":  "131",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "14:30",
+                          "capacity":  "162",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:00",
+                          "capacity":  "172",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "15:30",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:00",
+                          "capacity":  "231",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "16:30",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      },
+                      {
+                          "time":  "17:00",
+                          "capacity":  "233",
+                          "availability":  "On Sale",
+                          "disabled":  false
+                      }
+                  ]
+    }
+]
